@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ozzy/cprog/one/build",
+  "command": "/usr/bin/gcc   -g -std=gnu17 -o CMakeFiles/out.dir/main.c.o -c /home/ozzy/cprog/one/main.c",
+  "file": "/home/ozzy/cprog/one/main.c"
+}
+]

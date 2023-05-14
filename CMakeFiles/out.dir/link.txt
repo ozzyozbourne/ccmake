@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/out.dir/main.c.o -o out 

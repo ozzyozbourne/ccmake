@@ -1,0 +1,3 @@
+/home/ozzy/cprog/one/build/CMakeFiles/out.dir
+/home/ozzy/cprog/one/build/CMakeFiles/edit_cache.dir
+/home/ozzy/cprog/one/build/CMakeFiles/rebuild_cache.dir
